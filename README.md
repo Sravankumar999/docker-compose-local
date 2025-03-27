@@ -3,3 +3,4 @@
 ## INCLUDED
 - MySQL
 - Kafka
+- Maven
