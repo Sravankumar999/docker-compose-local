@@ -2,3 +2,4 @@
 
 ## INCLUDED
 - MySQL
+- Kafka
